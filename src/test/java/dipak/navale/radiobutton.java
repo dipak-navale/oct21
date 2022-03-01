@@ -35,6 +35,8 @@ public class radiobutton {
 //		System.out.println("radio button is selected="+flag1);
 		
 		System.out.println("radio button is diplayed="+flag.isDisplayed());
+		System.out.println("radio button is diplayed="+flag.isEnabled());
+
 
 	}
 
